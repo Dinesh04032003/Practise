@@ -16,6 +16,7 @@ class Car {
 public class Sample1 {
 	
 	public static void main(String[] args) {
-		Car ford = new Car();			
+		Car ford = new Car();	
+		ford.run()
 	}
 }
