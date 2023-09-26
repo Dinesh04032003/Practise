@@ -1,3 +1,6 @@
+
+                          //package creation for userin class
+
 package login;
 import java.io.*;
 public class inp
