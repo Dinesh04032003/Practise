@@ -7,7 +7,7 @@ class Sum
         System.out.println(a+" table");
         while(i<=a)
         {
-            System.out.println(a*i);
+            System.out.println(a+"x"+i+"="+(a*i));
             i+=1;
         }
     }
